@@ -8,3 +8,22 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
+nav{
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   background-color: #360c78;
+   height: 80px;
+}
+nav ul{
+    display: flex ;
+    justify-content:center;
+    
+}
+nav ul li{
+    list-style: none;
+    margin: 23px;
+}
+.left{
+    font-size: 1.5rem;
+}
