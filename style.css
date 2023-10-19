@@ -13,17 +13,24 @@ nav{
    justify-content: space-around;
    align-items: center;
    background-color: #360c78;
-   height: 80px;
+   height: 30px;
 }
 nav ul{
     display: flex ;
     justify-content:center;
+    align-items: center;
     
 }
 nav ul li{
+    display: flex ;
+    justify-content:center;
     list-style: none;
-    margin: 23px;
+    margin:0 23px;
+    align-items: center;
 }
 .left{
     font-size: 1.5rem;
+}
+.right{
+    align-items: center;
 }
