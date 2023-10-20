@@ -6,7 +6,6 @@ body{
     background-color: rgb(5, 5, 65);
     color: white;
     font-family: 'Poppins', sans-serif;
-
 }
 nav{
     display: flex;
@@ -19,8 +18,6 @@ nav ul{
     display: flex ;
     justify-content:center;
     margin: 22px;
-   
-    
 }
 nav ul li{
    
@@ -29,4 +26,12 @@ nav ul li{
 }  
 .left{
     font-size: 1.5rem;
+}
+.firstSection{
+    display: flex;
+    justify-content: space-around;
+    margin: 23px 0;
+}
+.leftSection{
+    background-color: blanchedalmond;
 }
