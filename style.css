@@ -30,10 +30,11 @@ nav ul li{
 .firstSection{
     display: flex;
     justify-content: space-around;
+    
     margin: 23px 0;
 }
 .leftSection{
-    background-color: blanchedalmond;
+    background-color: rgb(127, 136, 255);
     
 }
 .rightSection{
