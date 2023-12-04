@@ -33,6 +33,9 @@ nav ul li{
     
     margin: 23px 0;
 }
+.firstSection div{
+    width: 30%;
+}
 .leftSection{
     background-color: rgb(127, 136, 255);
     
