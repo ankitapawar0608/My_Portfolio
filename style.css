@@ -17,13 +17,21 @@ nav{
 nav ul{
     display: flex ;
     justify-content:center;
+    
     margin: 22px;
 }
 nav ul li{
-   
     list-style: none;
     margin:0 23px;
 }  
+nav ul li a{
+    text-decoration: none;
+    color: white;
+} 
+nav ul li a:hover{
+  
+    color: rgb(152, 152, 234);
+} 
 .left{
     font-size: 1.5rem;
 }
@@ -38,10 +46,14 @@ nav ul li{
 .leftSection{
 
     font-size: 3rem;
+    margin:  106px 0;
     
 }
 .rightSection img{
     width: 80%;
     margin: 50px 0;
     border-radius: 20px;
+}
+.ankita{
+    color: blueviolet;
 }
